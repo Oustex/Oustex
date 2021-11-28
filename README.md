@@ -1,6 +1,6 @@
 - Hi, I’m @Oustex.
 - I’m interested in Programming, Developming.
-- I’m currently learning python and JavaScript on top of HTML, CSS, and Java.
+- I’m currently learning python and JavaScript on top of Java.
 - I’m looking to collaborate with python.
 * How to reach me 
 
